@@ -2,4 +2,4 @@
 React Native 工具
 
 
-<Counter/> 
+添加<Counter/> 
