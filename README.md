@@ -13,7 +13,7 @@ React Native 工具
 
 ![ImgCap](https://raw.githubusercontent.com/a4962189/gif/master/teshuanniu.png)
 
-![ImgCap](https://github.com/a4962189/gif/blob/master/tuodong.gif?raw=true)
+![ImgCap](https://raw.githubusercontent.com/a4962189/gif/master/tuodong.gif)
 
 ![ImgCap](https://github.com/a4962189/gif/blob/master/xingxing.gif?raw=true)
 
