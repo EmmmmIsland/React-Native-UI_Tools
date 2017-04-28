@@ -31,6 +31,7 @@ export default class ViewTools extends Component {
             </View>
             <View style={{marginTop:40}}>
                 <LabelRating title="ssss" rating="6"/>
+                <LabelRating title="aaa" rating="7"/>
             </View>
         </View>
 

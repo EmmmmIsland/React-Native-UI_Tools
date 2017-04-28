@@ -27,6 +27,7 @@ import RangeSlider from './RangeSlider'
 import Expand from './Expand'
 import Start from './Start'
 import Alipay from './Alipay'
+import Flatlist from './Flatlist'
 
 
 
@@ -67,6 +68,11 @@ export default class tipsi extends Component {
             component: Alipay
         })
     }
+    flatlist() {
+        this.props.navigator.push({
+            component: Flatlist
+        })
+    }
 
     render() {
         return (
@@ -90,6 +96,9 @@ export default class tipsi extends Component {
                 }}/>
                 <Button title="Alipay" onPress={() => {
                     this.alipay()
+                }}/>
+                <Button title="FlatList" onPress={() => {
+                    this.flatlist()
                 }}/>
             </View>
         );

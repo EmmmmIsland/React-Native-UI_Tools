@@ -45,7 +45,7 @@ const baseStyles = StyleSheet.create({
         margin: 3,
         flexDirection: 'row',
         alignSelf: 'flex-start',
-        backgroundColor: 'yellow',
+        backgroundColor: 'red',
     },
     titleWrapper: {
         paddingTop: 3,
